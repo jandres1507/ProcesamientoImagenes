@@ -1,4 +1,4 @@
-# PocesamientoImagenes
+# Pocesamiento Imagenes
 Proyecto Final de Materia Tratamiento de Datos 🌱 
 
   👋 Jaime Andrés Subía  
